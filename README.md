@@ -1,4 +1,4 @@
-# MachineLearning_A_to_Z
+# AI_ML_A_to_Z
 # It is structured the following way:
 
 Part 1 - Data Preprocessing
