@@ -15,7 +15,7 @@ Part 6 - Reinforcement Learning: Upper Confidence Bound, Thompson Sampling
 
 Part 7 - Natural Language Processing: Bag-of-words model and algorithms for NLP
 
-Part 8 - Deep Learning: Supervised ML: Artificial Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks; Unsupervised ML: SOM, Boltzmann Machines, Auto Encoders
+Part 8 - Deep Learning: Supervised ML: Artificial Neural Networks (Used for Regression and Classification), Convolutional Neural Networks (Used for Computer Vision), Recurrent Neural Networks (Used for Time Series Analysis); Unsupervised ML: SOM (Used for Feature Detection), Boltzmann Machines, Auto Encoders (both used for Recommendation Systems)
 
 Part 9 - Dimensionality Reduction: PCA, LDA, Kernel PCA
 
